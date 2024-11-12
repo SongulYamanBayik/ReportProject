@@ -22,6 +22,5 @@ namespace Core.Interfaces
         void Update(T entity);
         void Delete(int id);
         void SoftDelete(T entity);
-
     }
 }
